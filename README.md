@@ -1,4 +1,4 @@
-# Social media Website with Node & ExpressJS using sockets to build Live chat feature
+# Social media Website using sockets to build Live chat feature
 ## Instructions
 
 1. Install the following dependencies 
